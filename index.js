@@ -12,7 +12,6 @@ function nowServing(katzDeliLineline){
 }
 }
 
-kittens.slice(0, kittens.length-1)
 
 
 // Build a function nowServing. This function should:
