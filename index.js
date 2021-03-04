@@ -1,5 +1,4 @@
-function takeANumber(line, name){
-  var newarray = [...line, name ]
-  return newarray
+function takeANumber(katzDeliLineline, name){
+
   // return `Welcome, ${name}. You are number ${i} in line.`
 }
